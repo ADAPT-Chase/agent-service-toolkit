@@ -4,7 +4,6 @@ checkpoints.db
 checkpoints.db-*
 
 # VSCode
-.vscode
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
@@ -84,6 +83,7 @@ docs/_build/
 .pybuilder/
 target/
 
+temp_auto_push.bat
 # Jupyter Notebook
 .ipynb_checkpoints
 
